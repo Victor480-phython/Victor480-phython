@@ -110,7 +110,6 @@ Busco oportunidades para atuar na área de dados, aplicando conhecimentos técni
 ## 🔗 Contato
 
 * LinkedIn: (adicione aqui)
-* GitHub: [https://github.com/](https://github.com/)
 
 ---
 
