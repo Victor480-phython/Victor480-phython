@@ -38,10 +38,10 @@ Sou estudante de Engenharia de Software com foco em **Análise de Dados**, busca
 
 ## 🛠️ Stack Tecnológica
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> - Python
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"> - R
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"> - MySql Workbench
-- <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Power%20BI.svg" width="40"> - Power BI
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> Python
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"> R
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"> MySql Workbench
+- <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Power%20BI.svg" width="40"> Power BI
 
 ---
 
