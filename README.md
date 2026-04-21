@@ -14,3 +14,136 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+# 👨‍💻 Victor Nicolas
+
+### Data Analyst | Power BI | Python | SQL
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de Engenharia de Software com foco em **Análise de Dados**, buscando aplicar conceitos analíticos e transformar dados em insights estratégicos para negócios.
+
+* 🎓 Engenharia de Software (em andamento)
+* 🏭 Técnico em Automação Industrial (SENAI)
+* 🌎 Inglês Fluente (Michigan)
+* 🌍 Espanhol Intermediário
+* 📊 Certificado em Power BI (DIO)
+
+---
+
+## 🛠️ Stack Tecnológica
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40">
+<img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Power%20BI.svg" width="40">
+
+---
+
+## 📊 Principais Competências
+
+* Análise de Dados
+* Power BI (Dashboards e Modelagem)
+* SQL (Consultas e Manipulação)
+* Python para Data Analysis
+* DAX (medidas e KPIs)
+
+---
+
+## 💼 Experiência / Projetos
+
+### 📌 Projetos em Power BI
+
+* Desenvolvimento de dashboards interativos
+* Análise de dados empresariais
+* Criação de métricas e indicadores
+
+### 📌 Projeto Klabin
+
+* Análise de dados de operações Full-Tree
+* Identificação de padrões e insights
+* Manipulação e validação de datasets
+
+---
+
+## 🧠 Exemplo de Código
+
+### 🐍 Python
+
+```python
+import pandas as pd
+
+# Carregar dados
+df = pd.read_csv("dados.csv")
+
+# Limpeza básica
+df = df.dropna()
+
+# Agrupamento
+resultado = df.groupby("categoria")["valor"].sum()
+
+print(resultado)
+```
+
+### 🗄️ SQL
+
+```sql
+SELECT categoria, SUM(valor) AS total
+FROM vendas
+GROUP BY categoria
+ORDER BY total DESC;
+```
+
+---
+
+## 📈 Objetivo
+
+Busco oportunidades para atuar na área de dados, aplicando conhecimentos técnicos e evoluindo profissionalmente.
+
+---
+
+## 🔗 Contato
+
+* LinkedIn: (adicione aqui)
+* GitHub: [https://github.com/](https://github.com/)
+
+---
+
+## ⚙️ Como montar isso (guia rápido)
+
+### ✔️ 1. Ícones
+
+Use links de CDNs como:
+
+* [https://devicon.dev/](https://devicon.dev/)
+* [https://github.com/gui-bus/TechIcons](https://github.com/gui-bus/TechIcons)
+
+### ✔️ 2. Imagens pequenas
+
+Use HTML no markdown:
+
+```html
+<img src="URL" width="40">
+```
+
+### ✔️ 3. Sincronizar dados
+
+* Use README como portfólio principal
+* Atualize projetos sempre que subir código
+* Automatize com GitHub Actions (nível avançado)
+
+### ✔️ 4. Organização
+
+* Seções bem definidas
+* Uso de emojis para escaneabilidade
+* Código demonstrando habilidade real
+
+---
+
+💡 Dica: Esse README funciona como um currículo técnico para recrutadores.
+
