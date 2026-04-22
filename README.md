@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Victor480-phython/Victor480-phython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,13 @@ Here are some ideas to get you started:
 
 
 
-# 👨‍💻 Victor Nicolas
+<center><h2>
+
+# 👨‍💻 Victor Nicolas Mateus dos Santos
+
+![Gif de Hacker](https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif)
+
+</h2>
 
 ### Data Analyst | Power BI | Python | SQL
 
@@ -33,6 +38,8 @@ Sou estudante de Engenharia de Software com foco em **Análise de Dados**, busca
 * 🌎 Inglês Fluente (Michigan)
 * 🌍 Espanhol Intermediário
 * 📊 Certificado em Power BI (DIO)
+
+</center>
 
 ---
 
@@ -113,36 +120,19 @@ Busco oportunidades para atuar na área de dados, aplicando conhecimentos técni
 
 ---
 
-## ⚙️ Como montar isso (guia rápido)
+## ⚙️ Como montei isso
 
 ### ✔️ 1. Ícones
 
-Use links de CDNs como:
+Usei links de CDNs como:
 
 * [https://devicon.dev/](https://devicon.dev/)
 * [https://github.com/gui-bus/TechIcons](https://github.com/gui-bus/TechIcons)
 
 ### ✔️ 2. Imagens pequenas
 
-Use HTML no markdown:
+Usei HTML no markdown:
 
 ```html
 <img src="URL" width="40">
 ```
-
-### ✔️ 3. Sincronizar dados
-
-* Use README como portfólio principal
-* Atualize projetos sempre que subir código
-* Automatize com GitHub Actions (nível avançado)
-
-### ✔️ 4. Organização
-
-* Seções bem definidas
-* Uso de emojis para escaneabilidade
-* Código demonstrando habilidade real
-
----
-
-💡 Dica: Esse README funciona como um currículo técnico para recrutadores.
-
