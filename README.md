@@ -4,7 +4,6 @@
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor480-phython&show_icons=true&theme=highcontrast) ![Gif de Hacker](https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif) 
 
-
 ### Data Analyst | Power BI | Python | SQL
 
 ---
@@ -31,12 +30,16 @@ Sou estudante de Engenharia de Software com foco em **Análise de Dados**, busca
 |Formação Power BI Analyst|[<img src="https://repository-images.githubusercontent.com/719147353/6e7050a0-dc7d-4b60-874d-136c253756d8" width="40">](https://hermes.dio.me/certificates/42PBQASH.pdf)
 |Formação Fundamentos de Inteligência Artificial|[<img src="https://repository-images.githubusercontent.com/719147353/6e7050a0-dc7d-4b60-874d-136c253756d8" width="40">](https://hermes.dio.me/certificates/BAAI46UH.pdf)
 
+
+
 ## 🛠️ Stack Tecnológica
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> Python
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"> R
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"> MySql Workbench
-- <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Power%20BI.svg" width="40"> Power BI
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70">
+<img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Power%20BI.svg" width="70">
+</p>
 
 ---
 
