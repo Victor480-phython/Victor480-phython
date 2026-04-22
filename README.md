@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ---
 
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor480-phython&show_icons=true&theme=tokyonight)
+
 ## 🚀 Sobre mim
 
 Sou estudante de Engenharia de Software com foco em **Análise de Dados**, buscando aplicar conceitos analíticos e transformar dados em insights estratégicos para negócios.
