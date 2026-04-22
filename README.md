@@ -66,19 +66,20 @@ Sou estudante de Engenharia de Software com foco em **Análise de Dados**, busca
 * Psicanálise com Dados
 * Desenvolvimento de um Projeto com base em pesquisa do Google Forms e alinhamento da base de dados com Power BI
 
-### 📌 Projeto Klabin <img src="https://tse2.mm.bing.net/th/id/OIP.Ym2afW8IwzOPzfS3TvDAjgHaFW?rs=1&pid=ImgDetMain&o=7&rm=3" width="50">
+### 📌 Projeto Klabin <img src="https://tetralon.com.br/wp-content/uploads/2022/05/Klabin-Logo.png" width="50">
 
-* Análise de dados de operações de 5 até 30 anos (Médio e Longo Prazo)
-* Desenvolvimento de uma automação em VBA para criação dos Books de colheita com mais de 100 slides com a definição de padrões de posicionamento, cor e designações
-* Manipulação e validação de datasets
-* Substituição do modelo organizacional antigo pelo Planner e Junção do mesmo com indicadores no PBI
-*Criação de uma Automação no Power Automate para coleta de dados na Web
+#### Planejamento Estratégico e Inteligência Florestal
+* Análise de dados de 5 até 30 anos (Médio e Longo Prazo)
+* Desenvolvimento de uma automação em **VBA** para criação dos **Books de colheita** com mais de 100 slides com a definição de padrões de posicionamento, cor e designações
+* Manipulação e validação de **datasets**
+* Substituição do modelo organizacional antigo pelo **Planner** e Junção do mesmo com indicadores no **PBI**
+Criação de uma Automação no **Power Automate** para coleta de dados na Web
 
 ---
 
 ## 🧠 Exemplo de Código
 
-### 🐍 Python
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"> Python 
 
 ```python
 import pandas as pd
@@ -95,7 +96,7 @@ resultado = df.groupby("categoria")["valor"].sum()
 print(resultado)
 ```
 
-### 🗄️ SQL
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"> SQL
 
 ```sql
 SELECT categoria, SUM(valor) AS total
