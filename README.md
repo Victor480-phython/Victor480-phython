@@ -4,7 +4,12 @@
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor480-phython&show_icons=true&theme=highcontrast) 
 ![Gif de Hacker](https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif) 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor480-phython&layout=compact&langs_count=7&theme=highcontrast"/>
+
+<center><p align="center">
+
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor480-phython&layout=compact&langs_count=7&theme=highcontrast"/>
+
+</p></center>
 
 ### Data Analyst | Power BI | Python | SQL
 
