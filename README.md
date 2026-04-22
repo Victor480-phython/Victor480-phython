@@ -115,8 +115,8 @@ Busco oportunidades para atuar na área de dados, aplicando conhecimentos técni
 
 ## 🔗 Contato
 
-[Meu Linkedin](https://www.linkedin.com/in/victor-nicolas-mateus-dos-santos-260b63341/)<img src="https://static.vecteezy.com/system/resources/previews/021/492/181/original/linkedin-logo-free-download-free-png.png" width="40">
-
+[<img src="https://static.vecteezy.com/system/resources/previews/021/492/181/original/linkedin-logo-free-download-free-png.png" width="70">
+](https://www.linkedin.com/in/victor-nicolas-mateus-dos-santos-260b63341/) [<img src="https://static.vecteezy.com/system/resources/thumbnails/046/853/014/small_2x/instagram-logo-icon-transparent-background-free-png.png" width="60">](https://www.instagram.com/vitao_124/)
 ---
 
 ## ⚙️ Como montei isso
