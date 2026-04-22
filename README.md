@@ -39,6 +39,13 @@ Sou estudante de Engenharia de Software com foco em **Análise de Dados**, busca
 
 ---
 
+|      Cursos      |Certificados |
+|------------------|-------------|
+|Klabin - Excel e Power BI Dashboards|[<img src="https://repository-images.githubusercontent.com/719147353/6e7050a0-dc7d-4b60-874d-136c253756d8" width="40">](https://hermes.dio.me/certificates/0KGLC6ZM.pdf)
+|Dominando Funções Python|[<img src="https://repository-images.githubusercontent.com/719147353/6e7050a0-dc7d-4b60-874d-136c253756d8" width="40">](https://hermes.dio.me/certificates/C6XKAUBU.pdf)
+|Formação Power BI Analyst|[<img src="https://repository-images.githubusercontent.com/719147353/6e7050a0-dc7d-4b60-874d-136c253756d8" width="40">](https://hermes.dio.me/certificates/42PBQASH.pdf)
+|Formação Fundamentos de Inteligência Artificial|[<img src="https://repository-images.githubusercontent.com/719147353/6e7050a0-dc7d-4b60-874d-136c253756d8" width="40">](https://hermes.dio.me/certificates/BAAI46UH.pdf)
+
 ## 🛠️ Stack Tecnológica
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> Python
