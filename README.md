@@ -1,32 +1,15 @@
 
-<!--
-**Victor480-phython/Victor480-phython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  # 👨‍💻 Victor Nicolas Mateus dos Santos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<center>
-
-# 👨‍💻 Victor Nicolas Mateus dos Santos
-
-![Gif de Hacker](https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif)
-
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor480-phython&show_icons=true&theme=highcontrast) ![Gif de Hacker](https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif) 
 
 
 ### Data Analyst | Power BI | Python | SQL
 
 ---
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor480-phython&show_icons=true&theme=tokyonight)
+
 
 ## 🚀 Sobre mim
 
@@ -37,7 +20,7 @@ Sou estudante de Engenharia de Software com foco em **Análise de Dados**, busca
 * 🌎 Inglês Fluente (Michigan)
 * 🌍 Espanhol Intermediário
 * 📊 Certificado em Power BI (DIO)
-</center>
+
 
 ---
 
