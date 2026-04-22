@@ -62,15 +62,17 @@ Sou estudante de Engenharia de Software com foco em **Análise de Dados**, busca
 
 ### 📌 Projetos em Power BI
 
-* Desenvolvimento de dashboards interativos
-* Análise de dados empresariais
-* Criação de métricas e indicadores
+* Pesquisa e alinhamento de critérios com base em psicólogos e metodologias psicanalíticas
+* Psicanálise com Dados
+* Desenvolvimento de um Projeto com base em pesquisa do Google Forms e alinhamento da base de dados com Power BI
 
-### 📌 Projeto Klabin
+### 📌 Projeto Klabin <img src="https://tse2.mm.bing.net/th/id/OIP.Ym2afW8IwzOPzfS3TvDAjgHaFW?rs=1&pid=ImgDetMain&o=7&rm=3" width="50">
 
-* Análise de dados de operações Full-Tree
-* Identificação de padrões e insights
+* Análise de dados de operações de 5 até 30 anos (Médio e Longo Prazo)
+* Desenvolvimento de uma automação em VBA para criação dos Books de colheita com mais de 100 slides com a definição de padrões de posicionamento, cor e designações
 * Manipulação e validação de datasets
+* Substituição do modelo organizacional antigo pelo Planner e Junção do mesmo com indicadores no PBI
+*Criação de uma Automação no Power Automate para coleta de dados na Web
 
 ---
 
