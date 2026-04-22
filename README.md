@@ -60,7 +60,7 @@ Sou estudante de Engenharia de Software com foco em **Análise de Dados**, busca
 
 ## 💼 Experiência / Projetos
 
-### 📌 Projetos em Power BI
+### 📌 Projetos em Power BI <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Power%20BI.svg" width="20">
 
 * Pesquisa e alinhamento de critérios com base em psicólogos e metodologias psicanalíticas
 * Psicanálise com Dados
@@ -85,13 +85,13 @@ Criação de uma Automação no **Power Automate** para coleta de dados na Web
 import pandas as pd
 
 # Carregar dados
-df = pd.read_csv("dados.csv")
+dados_carregados = pd.read_csv("dados.csv")
 
 # Limpeza básica
-df = df.dropna()
+dados_carregados = dados_carregados.dropna()
 
 # Agrupamento
-resultado = df.groupby("categoria")["valor"].sum()
+resultado = dados_carregados.groupby("categoria")["valor"].sum()
 
 print(resultado)
 ```
@@ -115,7 +115,7 @@ Busco oportunidades para atuar na área de dados, aplicando conhecimentos técni
 
 ## 🔗 Contato
 
-* LinkedIn: (adicione aqui)
+[Meu Linkedin](https://www.linkedin.com/in/victor-nicolas-mateus-dos-santos-260b63341/)<img src="https://static.vecteezy.com/system/resources/previews/021/492/181/original/linkedin-logo-free-download-free-png.png" width="40">
 
 ---
 
