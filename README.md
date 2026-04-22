@@ -14,16 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-<center><h2>
+<center>
 
 # 👨‍💻 Victor Nicolas Mateus dos Santos
 
 ![Gif de Hacker](https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif)
 
-</h2>
+
 
 ### Data Analyst | Power BI | Python | SQL
 
@@ -38,7 +35,6 @@ Sou estudante de Engenharia de Software com foco em **Análise de Dados**, busca
 * 🌎 Inglês Fluente (Michigan)
 * 🌍 Espanhol Intermediário
 * 📊 Certificado em Power BI (DIO)
-
 </center>
 
 ---
