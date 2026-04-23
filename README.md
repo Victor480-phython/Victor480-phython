@@ -1,20 +1,21 @@
-👨‍💻 Victor Nicolas Mateus dos Santos
+<h1 align="center">
+  👨‍💻 Victor Nicolas Mateus dos Santos
+</h1>
 
 <center><p align="center">
   
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor480-phython&show_icons=true&theme=highcontrast"/> 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor480-phython&layout=compact&langs_count=7&theme=highcontrast"/>
 
-
-
-  
 </p></center>
 
-### Data Analyst | Power BI | Python | SQL
+<h2 align="center">
+  Data Analyst | Power BI | Python | SQL
+</h2>
 
----
-
-## 🚀 Sobre mim
+<h1 align="center"> 
+  🚀 Sobre mim
+</h1>
 
 <center><p align="center">
 <img loading="lazy" height="250em" src="https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif"/>
