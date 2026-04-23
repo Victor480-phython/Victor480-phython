@@ -1,23 +1,24 @@
-
-
-  # 👨‍💻 Victor Nicolas Mateus dos Santos
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor480-phython&show_icons=true&theme=highcontrast) 
-![Gif de Hacker](https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif) 
+👨‍💻 Victor Nicolas Mateus dos Santos
 
 <center><p align="center">
+  
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor480-phython&show_icons=true&theme=highcontrast"/> 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor480-phython&layout=compact&langs_count=7&theme=highcontrast"/>
 
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor480-phython&layout=compact&langs_count=7&theme=highcontrast"/>
 
+
+  
 </p></center>
 
 ### Data Analyst | Power BI | Python | SQL
 
 ---
 
-
-
 ## 🚀 Sobre mim
+
+<center><p align="center">
+<img loading="lazy" height="250em" src="https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif"/>
+</p></center>
 
 Sou estudante de Engenharia de Software com foco em **Análise de Dados**, buscando aplicar conceitos analíticos e transformar dados em insights estratégicos para negócios.
 
